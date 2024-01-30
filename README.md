@@ -11,7 +11,7 @@ Features:
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/Smart_Notes.git
+git clone https://github.com/Ketrins/Smart_Notes.git
 cd SmartNotes
 
 Install the required dependencies:
